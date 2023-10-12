@@ -1,6 +1,8 @@
 # firefox-flexoki-dynamic-theme
 Dynamic theme for firefox using the flexoki color scheme.  
-More about flexoki: [Website](https://stephango.com/flexoki), [GitHub](https://github.com/kepano/flexoki)
+More about flexoki: [Website](https://stephango.com/flexoki), [GitHub](https://github.com/kepano/flexoki)  
+
+This contains a light and a dark theme. The light theme is shown between 7am and 22pm.
 
 ## Contribution
 Since this is my first try at a firefox theme/extension, I used [Firefox Color](https://color.firefox.com/) and copied the resulting color object into the dynamic theme extension example described [here](https://extensionworkshop.com/documentation/themes/dynamic-themes/).
