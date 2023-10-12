@@ -1,5 +1,5 @@
 # firefox-flexoki-dynamic-theme
-Dynamic theme for firefox using the flexoki color scheme.
+Dynamic theme for firefox using the flexoki color scheme.  
 More about flexoki: [Website](https://stephango.com/flexoki), [GitHub](https://github.com/kepano/flexoki)
 
 ## Contribution
