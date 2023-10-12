@@ -1,0 +1,12 @@
+{
+  "manifest_version": 2,
+  "version": "0.1",
+  "name": "Flexoki Dynamic Theme",
+  "permissions": [
+    "alarms",
+    "theme"
+  ],
+  "background": {
+    "scripts": ["background.js"]
+  }
+}
