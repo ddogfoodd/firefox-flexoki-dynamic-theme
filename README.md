@@ -4,6 +4,10 @@ More about flexoki: [Website](https://stephango.com/flexoki), [GitHub](https://g
 
 This contains a light and a dark theme. The light theme is shown between 7am and 10pm.
 
+## Installation
+Install the [dynamic theme addon](https://addons.mozilla.org/en-US/firefox/addon/flexoki-dynamic-theme/).
+Alternatively, install only [the light theme](https://addons.mozilla.org/en-US/firefox/addon/flexoki-light/) or only [the dark theme](https://addons.mozilla.org/en-US/firefox/addon/flexoki-dark/).
+
 ## Contribution
 Since this is my first try at a firefox theme/extension, I used [Firefox Color](https://color.firefox.com/) and copied the resulting color object into the dynamic theme extension example described [here](https://extensionworkshop.com/documentation/themes/dynamic-themes/).
 
